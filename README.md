@@ -1,5 +1,5 @@
 # DSA-Learning-2025
-My Data Structures &amp; Algorithms learning journey
+My Data Structures &amp; Algorithms with Python learning journey
 
 
 Day 1 - Initial commit with folder structure and hello.py , 
